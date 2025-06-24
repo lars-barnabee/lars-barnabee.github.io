@@ -1,2 +1,2 @@
 # lars-barnabee.github.io
-new website
+  My personal github pages blog found here: https://lars-barnabee.github.io/

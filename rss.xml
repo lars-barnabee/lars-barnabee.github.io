@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+        <channel>
+            <title>lars-barnabee.github.io Home Page</title>
+            <link>lars-barnabee.github.io</link>
+            <description>Lars Barnabee's blog on drawing tutorials and apps to help artists</description>
+            <language>en-us</language>
+            <atom:link href="https://lars-barnabee.github.io/rss.xml" rel="self" type="application/rss+xml" />
+            <category>Drawing Blog</category>
+            <image>
+            <url>lars-barnabee.github.io/twemoji/assets/32x32/1f39e.png</url>
+            <title>larsbarnabee Home Page</title>
+            <link>lars-barnabee.github.io</link>
+            </image>
+            <copyright>Lars Barnabee LLC — 2025 — Copyright — All Rights Reserved</copyright>
+            <lastBuildDate>Mon, 23 Jun 2025 17:58:58 GMT</lastBuildDate>
+            
+          <item>
+            <title>My drawing stencils</title>
+            <link>https://lars-barnabee.github.io/blog-posts/my-drawing-stencils.html</link>
+            <description>My stencil drawing ideas</description>
+            <guid isPermaLink="true">https://lars-barnabee.github.io/blog-posts/my-drawing-stencils.html</guid>
+          </item>
+        
+
+          <item>
+            <title>Where I have been?</title>
+            <link>https://lars-barnabee.github.io/blog-posts/where-i-have-been.html</link>
+            <description>Wher I have been</description>
+            <guid isPermaLink="true">https://lars-barnabee.github.io/blog-posts/where-i-have-been.html</guid>
+          </item>
+        
+
+          <item>
+            <title>What I learned about gesture drawing 👭</title>
+            <link>https://lars-barnabee.github.io/blog-posts/what-i-learned-about-gesture-drawing.html</link>
+            <description>what I learned about gesture drawing from 2019 to 2024</description>
+            <guid isPermaLink="true">https://lars-barnabee.github.io/blog-posts/what-i-learned-about-gesture-drawing.html</guid>
+          </item>
+        
+
+          <item>
+            <title>Distractions 🤯</title>
+            <link>https://lars-barnabee.github.io/blog-posts/distractions.html</link>
+            <description>How I have been trying to avoid distractions</description>
+            <guid isPermaLink="true">https://lars-barnabee.github.io/blog-posts/distractions.html</guid>
+          </item>
+        
+
+          <item>
+            <title>Misadventures in Marketing 🗣️</title>
+            <link>https://lars-barnabee.github.io/blog-posts/misadventures-in-marketing.html</link>
+            <description>my misadventures in marketing</description>
+            <guid isPermaLink="true">https://lars-barnabee.github.io/blog-posts/misadventures-in-marketing.html</guid>
+          </item>
+        
+        </channel>
+        </rss>

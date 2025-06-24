@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+Disallow: 404.html, search.html
+Sitemap: https://lars-barnabee.github.io/sitemap.xml
